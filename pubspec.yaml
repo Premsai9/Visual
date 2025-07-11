@@ -30,7 +30,7 @@ dependencies:
   app_links: 6.3.2
   app_links_platform_interface: 2.0.2
   assets_audio_player: ^3.1.1
-  assets_audio_player_web: ^3.1.1
+  
   auto_size_text: 3.0.0
   bento_design_system_mtd4px:
     path: ./dependencies/bento_design_system_mtd4px # 0.0.2
